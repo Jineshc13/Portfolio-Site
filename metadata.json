@@ -1,0 +1,7 @@
+{
+  "name": "Remix: Jinesh Chudasama Portfolio",
+  "description": "A high-end, interactive portfolio for an IT Security professional and acting enthusiast, featuring fluid transitions and a Gemini-powered security terminal with futuristic soundscapes.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
